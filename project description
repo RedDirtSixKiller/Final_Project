@@ -1,0 +1,31 @@
+Final Project Stuff:
+
+Machine learning to predict failures on a big population of devices.
+
+Techs:Pandas, SQL, Tableau
+
+Get module failure data
+Best feature selection
+Run a few models of module failure
+Make some neat graphs
+do some FTE calcs
+
+Run model up to Dec2018 to see how it predicted 2019 and compare to actual
+
+Claculating the Fails in 1 year was very accurate
+Clac the #months to failure, much less accurate.
+
+Run the survival model
+Get an NN class w/ logistic survival models
+
+Graphs comparing the model past accuracy
+Graphs looking at future predictions
+
+smooth out the zeros in the failure model.
+
+Graphs showing hours and FTEs. Calc FTEs as step function
+
+Get the current age of the modules portfolio.
+
+--
+Clusters of work on a map
